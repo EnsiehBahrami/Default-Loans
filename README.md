@@ -5,7 +5,7 @@ Lending Club managers need to make good lending decisions based on the right loa
 * What are the most important features in grade classification?
 * What are the most important features in defaulting loans? 
 * Particularly which features help greatly hedge the risk of the lender? 
-![image](https://user-images.githubusercontent.com/61526863/126086848-75dd9efb-5f49-4063-b53b-648373b64d62.png)
+
 
 
 ## About Dataset
